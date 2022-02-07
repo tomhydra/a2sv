@@ -63,4 +63,11 @@ root
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                            | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/stacks/_853_car_fleet/Solution.java)                          |
 | 880  | [Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)                                            | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/stacks/_880_decoded_string_at_index/Solution.java)                          |
 
+#### Queues
+| ID   | Name                                                                                                            | Difficulty | Solutions                                                                                                                                                         |
+|------|-----------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1700 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                         | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_1700_number_of_students_unable_to_eat_lunch/Solution.java) |
+| 2073 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_2073_time_needed_to_buy_tickets/Solution.java)             |
+| 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_641_design_circular_deque/Solution.java)                   |
+
 > **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
