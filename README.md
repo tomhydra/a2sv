@@ -34,6 +34,14 @@ root
 
 ### Solved problems
 
+#### Linked Lists
+| ID  | Name                                                                                                   | Difficulty | Solutions                                                                                                                                                        |
+|-----|--------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists)                         | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_2_merge_two_sorted_lists/Solution.java)              |
+| 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_83_remove_duplicates_from_sorted_list/Solution.java) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                   | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_141_linked_list_cycle/Solution.java)                 |
+
+
 #### Arrays
 | ID | Name                                                                                                                         | Difficulty | Solutions                                                                                                                                                                        |
 |----|------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
