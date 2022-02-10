@@ -95,7 +95,17 @@ root
 |------|-----------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                         | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_2073_time_needed_to_buy_tickets/Solution.java) |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_1700_number_of_students_unable_to_eat_lunch/Solution.java)             |
-| 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_641_design_circular_deque/Solution.java)                   |
+| 641  | [Design Circular Deque](https://leetcode.com/problems/maximum-sum-circular-subarray)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_641_design_circular_deque/Solution.java)                   |
+| 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/design-front-middle-back-queue/)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_918_maximum_sum_circular_subarray/Solution.java)                   |
+| 1670  | [Design Front Middle Back Queue](https://leetcode.com/problems/design-circular-deque)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_1670_design_front_middle_back_queue/FrontMiddleBackQueue.java)                   |
+| 649  | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_649_dota2_senate/Solution.java)                   |
+| 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_933_number_of_recent_calls/RecentCounter.java)                   |
+| 1438  | [Longest Contiguoous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit/Solution.java)                   |
+| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_560_subarray_sum_equal_k/Solution.java)                   |
+
+
+
+
 
 
 > **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
