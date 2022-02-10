@@ -34,6 +34,15 @@ root
 
 ### Solved problems
 
+#### Sorting
+| ID  | Name                                                                                                   | Difficulty | Solutions                                                                                                                                                        |
+|-----|--------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)                     | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sorting/_2089_find_the_indices_after_sorting_array/Solution.java)              |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sorting/_1859_sorting_the_sentence/Solution.java) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sorting/_75_sort_colors/Solution.java)                 |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sorting/_973_k_closest_points_to_origin/Solution.java)                 |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)                                | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sorting/_1365_how_many_numbers_are_smaller_than_the_current_number/Solution.java)                 |
+
 #### Linked Lists
 | ID  | Name                                                                                                   | Difficulty | Solutions                                                                                                                                                        |
 |-----|--------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -87,5 +96,6 @@ root
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                         | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_2073_time_needed_to_buy_tickets/Solution.java) |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_1700_number_of_students_unable_to_eat_lunch/Solution.java)             |
 | 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque)                                    | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/queues/_641_design_circular_deque/Solution.java)                   |
+
 
 > **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
