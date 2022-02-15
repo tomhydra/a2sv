@@ -1,4 +1,4 @@
-package com.tomhydra.a2sv.leetcode.linkedlists._2_merge_two_sorted_lists;
+package com.tomhydra.a2sv.leetcode.linkedlists._21_merge_two_sorted_lists;
 
 import com.tomhydra.a2sv.leetcode.common.ListNode;
 

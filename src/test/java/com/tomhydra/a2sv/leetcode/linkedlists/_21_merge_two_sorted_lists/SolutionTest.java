@@ -1,11 +1,9 @@
-package com.tomhydra.a2sv.leetcode.linkedlists._2_merge_two_sorted_lists;
+package com.tomhydra.a2sv.leetcode.linkedlists._21_merge_two_sorted_lists;
 
 import com.tomhydra.a2sv.leetcode.common.ListNode;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
     Solution solution;
