@@ -72,7 +72,7 @@ root
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                               | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_143_reorder_list/Solution.java)                 |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                               | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_203_remove_linked_list_elements/Solution.java)                 |
 | 1171  | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)                               | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_1171_remove_zero_sum_consecutive_nodes_from_linked_list/Solution.java)                 |
-
+| 382  | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                               | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/linkedlists/_382_linked_list_random_node/Solution.java)                 |
 
 
 #### Arrays
