@@ -142,6 +142,10 @@ root
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)                                | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_1234_replace_the_string_for_balanced_string/Solution.java) |
 | 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                 | Medium     | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_904_fruit_into_baskets/Solution.java) |
 | 992  | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                 | Hard       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_992_subarrays_with_k_different_integers/Solution.java) |
+| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_3_longest_substring_without_repeating_characters/Solution.java) |
+| 978  | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_978_longest_turbulent_subarray/Solution.java) |
+| 1031  | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_1031_maximum_sum_of_two_non_overlapping_subarrays/Solution.java) |
+
 
 
 > **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
