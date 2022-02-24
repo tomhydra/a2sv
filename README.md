@@ -146,6 +146,13 @@ root
 | 978  | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_978_longest_turbulent_subarray/Solution.java) |
 | 1031  | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)                                 | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/sliding_window/_1031_maximum_sum_of_two_non_overlapping_subarrays/Solution.java) |
 
+#### Hashing
+| ID   | Name                                               | Difficulty | Solutions                                                                                                                                          |
+|------|----------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 229  | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/hashing/_229_majority_element_ii/Solution.java) |
+| 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                | Medium       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/hashing/_73_set_matrix_zeroes/Solution.java) |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                | Easy       | [Solution](https://github.com/tomhydra/a2sv/blob/main/src/main/java/com/tomhydra/a2sv/leetcode/hashing/_205_isomorphic_strings/Solution.java) |
+
 
 
 > **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
