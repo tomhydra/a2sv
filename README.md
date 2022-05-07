@@ -172,5 +172,3 @@ root
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | Easy       | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/binary_search/_287_find_the_duplicate_number/Solution.java)                              |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | Medium     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/binary_search/_33_search_in_rotated_sorted_array/Solution.java)                          |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/binary_search/_34_find_first_and_last_position_of_element_in_sorted_array/Solution.java) |
-
-> **_TIP:_** The tables above are generated using https://www.tablesgenerator.com/markdown_tables
