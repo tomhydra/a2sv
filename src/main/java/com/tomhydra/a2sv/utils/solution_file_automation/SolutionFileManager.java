@@ -62,7 +62,8 @@ public class SolutionFileManager {
                 readmeText = readmeText.substring(0, matcher.end()) + solutionRows + readmeText.substring(matcher.end());
             } else {
                 String header = "\n#### " + entry.getKey() + "\n" +
-                        "| ID | Name | Difficulty | Solutions |\n";
+                        "| ID | Name | Difficulty | Solutions |\n" +
+                        "|----|------|------------|-----------|\n";
                 readmeText += header + solutionRows;
             }
             FileUtils.writeStringToFile(readmeFile, readmeText, "utf-8");
