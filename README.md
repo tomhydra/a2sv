@@ -222,3 +222,8 @@ root
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)                                                       | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/bfs/_1306_jump_game_iii/Solution.java)                           |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                           | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/bfs/_199_binary_tree_right_side_view/Solution.java)              |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                           | HARD       | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/bfs/_127_word_ladder/Solution.java)                              |
+
+#### Miscellaneous
+| ID | Name | Difficulty | Solutions |
+|----|------|------------|-----------|
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/miscellaneous/_1396_design_underground_system/UndergroundSystem.java) |

@@ -34,7 +34,7 @@ public class SolutionFileManager {
         String read = scanner.nextLine();
         Map<String, List<String>> readmeData = new HashMap<>();
         while (!read.isEmpty()) {
-            String[] parts = read.split(" ");
+            String[] parts = read.split(" ", 2);
             String titleSlug = manager.parseTitleSlug(parts[0]);
             String type = parts[1];
             String slugifiedType = type.toLowerCase().replaceAll(" ", "_");
