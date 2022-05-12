@@ -224,6 +224,15 @@ root
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                           | HARD       | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/bfs/_127_word_ladder/Solution.java)                              |
 
 #### Miscellaneous
-| ID | Name | Difficulty | Solutions |
-|----|------|------------|-----------|
-| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/miscellaneous/_1396_design_underground_system/UndergroundSystem.java) |
+| ID   | Name                                                                                  | Difficulty | Solutions                                                                                                                   |
+|------|---------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/miscellaneous/_1396_design_underground_system/UndergroundSystem.java) |
+
+#### DP
+| ID  | Name                                                                                | Difficulty | Solutions                                                                                             |
+|-----|-------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------|
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | EASY       | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_746_min_cost_climbing_stairs/Solution.java) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                 | EASY       | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_509_fibonacci_number/Solution.java)         |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/)                                 | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_120_triangle/Solution.java)                 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/)                         | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_198_house_robber/Solution.java)             |
+| 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                 | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_64_minimum_path_sum/Solution.java)          |
