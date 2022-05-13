@@ -236,3 +236,4 @@ root
 | 120 | [Triangle](https://leetcode.com/problems/triangle/)                                 | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_120_triangle/Solution.java)                 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/)                         | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_198_house_robber/Solution.java)             |
 | 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                 | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_64_minimum_path_sum/Solution.java)          |
+| 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) | HARD | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_1359_count_all_valid_pickup_and_delivery_options/Solution.java) |
