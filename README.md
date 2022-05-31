@@ -237,3 +237,9 @@ root
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/)                         | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_198_house_robber/Solution.java)             |
 | 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                 | MEDIUM     | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_64_minimum_path_sum/Solution.java)          |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) | HARD | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dp/_1359_count_all_valid_pickup_and_delivery_options/Solution.java) |
+
+#### DSU
+| ID | Name | Difficulty | Solutions |
+|----|------|------------|-----------|
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dsu/_1202_smallest_string_with_swaps/Solution.java) |
+| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dsu/_684_redundant_connection/Solution.java) |
