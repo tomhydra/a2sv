@@ -243,6 +243,7 @@ root
 |----|------|------------|-----------|
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dsu/_1202_smallest_string_with_swaps/Solution.java) |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dsu/_684_redundant_connection/Solution.java) |
+| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/dsu/_990_satisfiability_of_equality_equations/Solution.java) |
 
 #### Greedy
 | ID | Name | Difficulty | Solutions |
@@ -250,3 +251,4 @@ root
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | EASY | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/greedy/_605_can_place_flowers/Solution.java) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/greedy/_881_boats_to_save_people/Solution.java) |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/greedy/_1328_break_a_palindrome/Solution.java) |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | MEDIUM | [Solution](./src/main/java/com/tomhydra/a2sv/leetcode/greedy/_649_dota2_senate/Solution.java) |
